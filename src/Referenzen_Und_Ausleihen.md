@@ -177,7 +177,7 @@ Referenz haben, aber nicht beide zur gleichen Zeit:
 * eine oder mehr Referenzen (`&T`) auf eine Ressource,
 * genau eine veränderbare Referenz (`&mut T`).
 
-Du wirs feststellen, das dies sehr ähnlich (wenn auch nicht ganz exakt)
+Du wirs feststellen, dass dies sehr ähnlich (wenn auch nicht ganz exakt)
 der Definition eines *data race* entspricht:
 
 > There is a ‘data race’ when two or more pointers access the same memory
